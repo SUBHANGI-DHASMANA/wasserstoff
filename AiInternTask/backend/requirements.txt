@@ -1,0 +1,19 @@
+fastapi
+uvicorn
+python-multipart
+pymongo
+motor
+chromadb
+pydantic
+python-dotenv
+pytesseract
+pdf2image
+pypdf
+pillow
+langchain
+langchain-community
+sentence-transformers
+requests
+
+# For Ollama integration
+requests>=2.28.0
